@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sameerakmal/Leetcode/tree/master/0045-jump-game-ii) |
+| [0087-scramble-string](https://github.com/sameerakmal/Leetcode/tree/master/0087-scramble-string) |
 | [0152-maximum-product-subarray](https://github.com/sameerakmal/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sameerakmal/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## String
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/sameerakmal/Leetcode/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
