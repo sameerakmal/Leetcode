@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sameerakmal/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/sameerakmal/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sameerakmal/Leetcode/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sameerakmal/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [3790-fruits-into-baskets-ii](https://github.com/sameerakmal/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sameerakmal/Leetcode/tree/master/0045-jump-game-ii) |
 | [0087-scramble-string](https://github.com/sameerakmal/Leetcode/tree/master/0087-scramble-string) |
+| [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sameerakmal/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sameerakmal/Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/sameerakmal/Leetcode/tree/master/0087-scramble-string) |
+| [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sameerakmal/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/sameerakmal/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sameerakmal/Leetcode/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sameerakmal/Leetcode/tree/master/0079-word-search) |
+## Hash Table
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
