@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sameerakmal/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sameerakmal/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerakmal/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/sameerakmal/Leetcode/tree/master/0087-scramble-string) |
 | [0139-word-break](https://github.com/sameerakmal/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerakmal/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sameerakmal/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Backtracking
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sameerakmal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sameerakmal/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sameerakmal/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerakmal/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
