@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sameerakmal/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sameerakmal/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3379-transformed-array](https://github.com/sameerakmal/Leetcode/tree/master/3379-transformed-array) |
+| [3637-trionic-array-i](https://github.com/sameerakmal/Leetcode/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/sameerakmal/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/sameerakmal/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sameerakmal/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
