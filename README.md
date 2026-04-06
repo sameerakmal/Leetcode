@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sameerakmal/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sameerakmal/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0874-walking-robot-simulation](https://github.com/sameerakmal/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sameerakmal/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sameerakmal/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3379-transformed-array](https://github.com/sameerakmal/Leetcode/tree/master/3379-transformed-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/sameerakmal/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/sameerakmal/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [3379-transformed-array](https://github.com/sameerakmal/Leetcode/tree/master/3379-transformed-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/sameerakmal/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/sameerakmal/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
+| [0874-walking-robot-simulation](https://github.com/sameerakmal/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [3668-restore-finishing-order](https://github.com/sameerakmal/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/sameerakmal/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sameerakmal/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
