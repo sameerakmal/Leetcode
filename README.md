@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/sameerakmal/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sameerakmal/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3379-transformed-array](https://github.com/sameerakmal/Leetcode/tree/master/3379-transformed-array) |
+| [3446-sort-matrix-by-diagonals](https://github.com/sameerakmal/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3637-trionic-array-i](https://github.com/sameerakmal/Leetcode/tree/master/3637-trionic-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sameerakmal/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/sameerakmal/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/sameerakmal/Leetcode/tree/master/0047-permutations-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sameerakmal/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [3446-sort-matrix-by-diagonals](https://github.com/sameerakmal/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sameerakmal/Leetcode/tree/master/0079-word-search) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sameerakmal/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sameerakmal/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3446-sort-matrix-by-diagonals](https://github.com/sameerakmal/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
