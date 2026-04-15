@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/sameerakmal/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sameerakmal/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sameerakmal/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sameerakmal/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3379-transformed-array](https://github.com/sameerakmal/Leetcode/tree/master/3379-transformed-array) |
 | [3446-sort-matrix-by-diagonals](https://github.com/sameerakmal/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3637-trionic-array-i](https://github.com/sameerakmal/Leetcode/tree/master/3637-trionic-array-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sameerakmal/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerakmal/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sameerakmal/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sameerakmal/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sameerakmal/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sameerakmal/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sameerakmal/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
