@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sameerakmal/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3379-transformed-array](https://github.com/sameerakmal/Leetcode/tree/master/3379-transformed-array) |
 | [3446-sort-matrix-by-diagonals](https://github.com/sameerakmal/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
+| [3488-closest-equal-element-queries](https://github.com/sameerakmal/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3637-trionic-array-i](https://github.com/sameerakmal/Leetcode/tree/master/3637-trionic-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sameerakmal/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3668-restore-finishing-order](https://github.com/sameerakmal/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3488-closest-equal-element-queries](https://github.com/sameerakmal/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/sameerakmal/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sameerakmal/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
 | [0874-walking-robot-simulation](https://github.com/sameerakmal/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [3488-closest-equal-element-queries](https://github.com/sameerakmal/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3668-restore-finishing-order](https://github.com/sameerakmal/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/sameerakmal/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sameerakmal/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
