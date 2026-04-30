@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/sameerakmal/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sameerakmal/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sameerakmal/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sameerakmal/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sameerakmal/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3379-transformed-array](https://github.com/sameerakmal/Leetcode/tree/master/3379-transformed-array) |
 | [3446-sort-matrix-by-diagonals](https://github.com/sameerakmal/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sameerakmal/Leetcode/tree/master/0045-jump-game-ii) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sameerakmal/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Binary Search
 |  |
 | ------- |
