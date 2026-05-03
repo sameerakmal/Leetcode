@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sameerakmal/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sameerakmal/Leetcode/tree/master/0140-word-break-ii) |
 | [0657-robot-return-to-origin](https://github.com/sameerakmal/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/sameerakmal/Leetcode/tree/master/0796-rotate-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerakmal/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sameerakmal/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sameerakmal/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sameerakmal/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sameerakmal/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sameerakmal/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
