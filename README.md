@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sameerakmal/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sameerakmal/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sameerakmal/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/sameerakmal/Leetcode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/sameerakmal/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sameerakmal/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sameerakmal/Leetcode/tree/master/0139-word-break) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sameerakmal/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/sameerakmal/Leetcode/tree/master/0079-word-search) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sameerakmal/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sameerakmal/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sameerakmal/Leetcode/tree/master/0048-rotate-image) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sameerakmal/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sameerakmal/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String Matching
