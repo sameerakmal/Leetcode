@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sameerakmal/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sameerakmal/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sameerakmal/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sameerakmal/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/sameerakmal/Leetcode/tree/master/3379-transformed-array) |
 | [3446-sort-matrix-by-diagonals](https://github.com/sameerakmal/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3488-closest-equal-element-queries](https://github.com/sameerakmal/Leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sameerakmal/Leetcode/tree/master/0048-rotate-image) |
 | [0788-rotated-digits](https://github.com/sameerakmal/Leetcode/tree/master/0788-rotated-digits) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sameerakmal/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sameerakmal/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sameerakmal/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String Matching
