@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/sameerakmal/Leetcode/tree/master/0788-rotated-digits) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sameerakmal/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3660-jump-game-ix](https://github.com/sameerakmal/Leetcode/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sameerakmal/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -233,12 +234,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/sameerakmal/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sameerakmal/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sameerakmal/Leetcode/tree/master/0048-rotate-image) |
 | [0788-rotated-digits](https://github.com/sameerakmal/Leetcode/tree/master/0788-rotated-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sameerakmal/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/sameerakmal/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sameerakmal/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sameerakmal/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String Matching
