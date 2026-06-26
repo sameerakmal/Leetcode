@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/sameerakmal/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sameerakmal/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sameerakmal/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1732-find-the-highest-altitude](https://github.com/sameerakmal/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sameerakmal/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/sameerakmal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sameerakmal/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/sameerakmal/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3719-longest-balanced-subarray-i](https://github.com/sameerakmal/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sameerakmal/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
