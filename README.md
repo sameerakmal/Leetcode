@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/sameerakmal/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sameerakmal/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/sameerakmal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sameerakmal/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sameerakmal/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/sameerakmal/Leetcode/tree/master/1861-rotating-the-box) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sameerakmal/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sameerakmal/Leetcode/tree/master/0045-jump-game-ii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sameerakmal/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/sameerakmal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sameerakmal/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sameerakmal/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Binary Search
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/sameerakmal/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sameerakmal/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/sameerakmal/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sameerakmal/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3446-sort-matrix-by-diagonals](https://github.com/sameerakmal/Leetcode/tree/master/3446-sort-matrix-by-diagonals) |
 ## Bit Manipulation
 |  |
